@@ -1,0 +1,28 @@
+# Project exclude paths
+/.gradle/
+/Recipes/task/build/
+/Recipes/task/out/
+/Recipes/task/out/production/classes/
+/Topics/Bean validation/Add two annotations/out/
+/Topics/Exception handling/Improve the program/out/
+/Topics/Functional interfaces/Statements/out/
+/Topics/Functional interfaces/Statements/out/production/classes/
+/Topics/Functional interfaces/Theory/out/
+/Topics/Functional interfaces/Theory/out/production/classes/
+/Topics/Overview of the basic program/Theory/build/
+/Topics/toString()/Class hierarchy/out/
+/Topics/toString()/Class hierarchy/out/production/classes/
+/Topics/toString()/Convert persons and patients to string/out/
+/Topics/toString()/Convert persons and patients to string/out/production/classes/
+/Topics/toString()/Convert vehicles and cars to string/out/
+/Topics/toString()/Convert vehicles and cars to string/out/production/classes/
+/Topics/toString()/Theory/out/
+/Topics/toString()/Theory/out/production/classes/
+/Topics/toString()/Time as a string/out/
+/Topics/toString()/Time as a string/out/production/classes/
+/Topics/toString()/toString method/out/
+/Topics/toString()/toString method/out/production/classes/
+/Topics/toString()/Users as strings/out/
+/Topics/toString()/Users as strings/out/production/classes/
+/Topics/What is an exception/Theory/out/
+/Topics/What is an exception/Theory/out/production/classes/

@@ -1,0 +1,64 @@
+content:
+- Overview of the basic program
+- Types and variables
+- Comments
+- Scanning the input
+- Integer types and operations
+- Relational operators
+- Conditional statement
+- Increment and decrement
+- The while and do-while loops
+- Branching statements
+- Primitive and reference types
+- Arrays as parameters
+- Iterating over arrays
+- Errors in programs
+- What is an exception
+- NPE
+- Instance methods
+- Package
+- Getters and setters
+- Inheritance
+- Objects
+- Interface
+- Multiple constructors
+- The keyword super
+- Hierarchy of exceptions
+- Printing data
+- Static members
+- Hiding and overriding
+- toString()
+- Defining classes
+- The for-loop
+- Calling a method
+- Declaring a method
+- What are collections
+- The Collections Framework overview
+- ArrayList
+- The List interface
+- The Set interface
+- The main method
+- Threads as objects
+- Custom threads
+- Thread management
+- Thread synchronization
+- Generics and Object
+- Lambda expressions
+- The Map interface
+- Exception handling
+- Method references
+- Functional interfaces
+- Generic methods
+- Standard functional interfaces
+- Optional
+- Polymorphism
+- Regexes in programs
+- Bean validation
+- String
+- LocalTime
+- LocalDate
+- LocalDateTime
+- Comparing dates and time
+- The utility class Collections
+- Abstract class
+- Builder
